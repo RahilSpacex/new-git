@@ -6,12 +6,14 @@ let menu = {
 };
 
 function multiplyNumeric(obj) {
-    for (const name in obj) {
-        if (typeof obj[name] === Number) {
-            obj[name] = obj[name] * 2
-            console.log(obj[name])
+    for (const info in obj) {
+        if (typeof obj[info] === Number) {
+            obj[info] = obj[info] * 2
+            console.log(obj[info])
         } 
     }
 }
 multiplyNumeric(menu)
 
+console.log("hey bro")
+console.log('hello sis')
