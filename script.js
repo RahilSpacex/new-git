@@ -16,3 +16,6 @@ function multiplyNumeric(obj) {
 multiplyNumeric(menu)
 console.log("hey bro")
 console.log('hello sis')
+function newFeet() {
+    console.log("feet")
+}
