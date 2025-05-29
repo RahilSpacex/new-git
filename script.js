@@ -14,6 +14,5 @@ function multiplyNumeric(obj) {
     }
 }
 multiplyNumeric(menu)
-console.log('get rekt')
 console.log("hey bro")
 console.log('hello sis')
