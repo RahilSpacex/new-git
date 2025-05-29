@@ -1,5 +1,5 @@
 let menu = {
-  width: 200,
+  width: 2000,
   height: 300,
   shit: 600,
   title: "My menu"
